@@ -31,25 +31,19 @@ git clone <repository-url>
 
 ### Install Dependencies
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
    ```bash
    cd <project-folder>
    ```
 
-3. Install the necessary dependencies:
+2. Install the necessary dependencies:
 
    ```bash
    npm install
    ```
 
-4. Start the development server:
+3. Start the development server:
 
    ```bash
    npm run dev
